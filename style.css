@@ -69,10 +69,11 @@
     position: absolute;
     top: 520px;
     }
-    .roadLines {
+     .roadLines {
     height: 100px;
     width: 10px;
     background-color: white;
     position: absolute;
     margin-left: 195px;
     }
+
