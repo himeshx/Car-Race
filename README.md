@@ -12,7 +12,6 @@ experience as you race through the virtual streets, dodging obstacles, and compe
 
 - My GitHub profile: <a href="https://github.com/himeshx">```Github!```</a>
 <hr>
-
 <h2 align="left">
   <b>
     ©️ Copyright Disclaimer
