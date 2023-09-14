@@ -20,5 +20,5 @@ experience as you race through the virtual streets, dodging obstacles, and compe
 
 - Under section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, teaching, education, scholarship and research. Fair use is a use permitted by the copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.   
 
-<img src="car race.png.">
+<img src= "car race.png">
 
